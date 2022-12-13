@@ -1,6 +1,6 @@
 # E-Commerce-Shipping-Data
 Final Project-Rakamin Academy 
-Kelompok 2: Levamta
+Kelompok 9: Levamta
 
 ## 1. Problem Statement
 Levamta menggunakan dataset E-Commerce Shipping Data yang merupakan data logistik yang dimiliki oleh perusahaan E-commerce internasional. Data mencakup angka pengiriman pesanan yang terlambat (late delivery), berat dan harga produk, metode pengiriman, besar diskon, rating dan complain pelanggan, dan lain-lain.
